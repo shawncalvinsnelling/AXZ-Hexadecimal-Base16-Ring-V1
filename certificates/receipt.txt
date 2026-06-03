@@ -1,0 +1,13 @@
+AXZ HEXADECIMAL BASE-16 ORDERED RING V1 RECEIPT
+Truth label: CERTIFIED_FINITE_EXACT_INTEGER_RESULT_UNDER_STATED_RULES
+Tokens: 1 2 3 4 5 6 7 8 9
+Base: 16
+Allowed operations: Base-16 concatenation, +, -, *
+Subtraction: directional left-minus-right only
+Possible cut patterns: 256
+Unique integer values generated: 179,145
+Positive integer values generated: 95,757
+Consecutive positive integers from 1: 6,007
+First missing positive integer: 6,008
+Boundary witness: 6007 = ((((0x12+0x345)-0x67)*0x8)-0x9)
+Correction note: 1551 is representable as ((((0x1*0x23)-0x4)+0x567)+0x89); the certified wall is 6008.

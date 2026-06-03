@@ -1,0 +1,7 @@
+{
+  "python_int_arbitrary_precision": true,
+  "max_abs_full_universe_value": 4886718345,
+  "max_abs_full_universe_bit_length": 33,
+  "runtime_guard_value": 1361129467683753853853498429727196302613,
+  "runtime_guard_bit_length": 131
+}
